@@ -11,6 +11,8 @@
   ![svelte]({https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00})
   ![BootStrap]({https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white})
   ![.Net]({https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white})
+
+  <img src="{https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white}"/>
 <!---
 Adniyi/Adniyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
