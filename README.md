@@ -1,10 +1,10 @@
-  👋 Hi, I’m @LostSheep 🐑🐑
+  👋 Hi, I’m **@LostSheep** 🐑🐑
   
   I an a computer engineering undergraduate who enjoys problem solving, writing code and exploring new technologies. 
 
   I enjoy working in challenging environments, always eager to learn, adapt, and grow. Whether it's developing scalable applications, experimenting with new technologies, or solving problems that relate to me and those around me, I am driven by curiosity and innovation.
 
-  I'm currently learning how to use the Angular webframework while exploring SAAS(Software As A Service) solutions for small-to-meduim size businesses and Individuals leveraging AI tools for Idea generation and refinement, testing, learning about unexplored markets and coding. 
+  I'm currently learning how to use the **Angular webframework** while exploring **SAAS** (Software As A Service) solutions for small-to-meduim size businesses and Individuals leveraging AI tools for Idea generation and refinement, testing, learning about unexplored markets and coding. 
 
 ⚡ Fun fact: ... Im not really that outgoing with people and so i sometimes struggle when doing group work. But i love building things. Also, did you know that... if yo close your eyes, you wont see anything :).
 
