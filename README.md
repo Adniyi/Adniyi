@@ -1,4 +1,4 @@
-  👋 Hi, I’m @Adniyi
+  👋 Hi, I’m @LostSheep 🐑🐑
   
   I an a computer engineering undergraduate who enjoys problem solving, writing code and exploring new technologies. 
 
