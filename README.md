@@ -1,14 +1,18 @@
   👋 Hi, I’m @Adniyi
-- 👀 I’m interested in ... Programming, Problem Solving, and all things related to tech be it hardware or software development.
-- 🌱 I’m currently learning ... Python FLask, C# ASP.NET MVC, Backend development,
-- 💞️ I’m looking to collaborate on ... anything Flask and ASP.NET MVC related.
-- 📫 How to reach me ... On Linkedin: [Adeniyi Adewumi](https://www.linkedin.com/in/adeniyi-adewumi).
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... Im not really that outgoing with people and so i sometimes struggle when doing group work. But i love building things.
-- Also, did you know that... if yo close your eyes, you wont see anything :).
+  
+  I an a computer engineering undergraduate who enjoys problem solving, writing code and exploring new technologies. 
 
+  I enjoy working in challenging environments, always eager to learn, adapt, and grow. Whether it's developing scalable applications, experimenting with new technologies, or solving problems that relate to me and those around me, I am driven by curiosity and innovation.
+
+  I'm currently learning how to use the Angular webframework while exploring SAAS(Software As A Service) solutions for small-to-meduim size businesses and Individuals leveraging AI tools for Idea generation and refinement, testing, learning about unexplored markets and coding. 
+
+⚡ Fun fact: ... Im not really that outgoing with people and so i sometimes struggle when doing group work. But i love building things. Also, did you know that... if yo close your eyes, you wont see anything :).
+
+The tools i use include: 
+- FastAPI
+- Flask
+- SQLModel and SQLAlchemy
   ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
   ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
