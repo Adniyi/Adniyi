@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Adniyi**, a.k.a **LostSheep** 🐑🐑
+# 👋 Hi, I’m **Adeniyi**, a.k.a **LostSheep** 🐑🐑
 A computer engineering undergraduate who enjoys problem solving, writing code and exploring new technologies. 
 
 I enjoy working in challenging environments, always eager to learn, adapt, and grow. Whether it's developing scalable applications, experimenting with new technologies, or solving problems that relate to me and those around me, I am driven by curiosity and innovation.
